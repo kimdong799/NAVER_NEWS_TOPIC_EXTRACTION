@@ -1,0 +1,2 @@
+# NAVER_NEWS_TOPIC_EXTRACTION
+네이버 기사를 통한 토픽추출
